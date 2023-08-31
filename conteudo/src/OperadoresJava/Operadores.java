@@ -7,7 +7,7 @@ public class Operadores {
         System.out.println(nomeCompleto);
 
         //imprimi 31 pois soma os 3 primeiros numero e concatena com o ultimo caracter
-        concatenacao = 1+1+1+"1";
+        concatenacao = 1+1+1+"2";
         System.out.println(concatenacao);
 
         //imprimi 1111 por que concatena logo no inicio com o caracter e ele so identifica como
