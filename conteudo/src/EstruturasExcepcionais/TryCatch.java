@@ -3,6 +3,7 @@ import java.util.Scanner;
 import java.util.InputMismatchException;
 import java.util.Locale;
 public class TryCatch {
+  /* */
     public static void main(String[] args) {
        
        try{
